@@ -12,9 +12,9 @@
   "db_config": {
     "protocol": "mysql",
     "host": "127.0.0.1",
-    "database": "mydata",
+    "database": "mydb",
     "user": "root",
-    "password": "root",
+    "password": "",
     "port": 3306
   }
 }
